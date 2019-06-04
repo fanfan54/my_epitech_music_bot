@@ -8,3 +8,6 @@ I followed the instructions from [@MaximeHouis](https://github.com/MaximeHouis),
 https://gist.github.com/MaximeHouis/fcabae95b8da7af535e8e250564e0591
 https://gist.github.com/MaximeHouis/ab345e80d16bb3c12984578d7deb40e1
 https://gist.github.com/MaximeHouis/d514052ae2e8517160bd6919e98d4304
+
+Here is a link if you want to add the bot to your Discord server:
+https://discordapp.com/oauth2/authorize?client_id=583221729489453067&scope=bot&permissions=8
